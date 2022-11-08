@@ -53,5 +53,5 @@ This will generate the file :  make-ubuntu-master-and-workers-cluster.txt\
 Use this file it has all the commands you need to create your Master and additional worker Nodes
 
 ## Test your cluster
-You can refer to the folowing article [Deploy tomcat on K3S](http://rino.kozow.com/dvp/posts/tomcat-on-a-single-instance-of-k3s/)\
+You can refer to the folowing article [Deploy Tomcat on single instance of K3S](http://rino.kozow.com/dvp/posts/tomcat-on-a-single-instance-of-k3s/)\
 to deploy Tomcat to your cluster so that you can test it
