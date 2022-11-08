@@ -2,6 +2,7 @@
 This project is used to create a single server (Master and Worker Node) K3S deployment
 You can add additional worker Nodes
 
+## Prerequisites
 Run the following command:
 ```
 nano CreateMaster-and-WorkerDeploymentCommands4Ubuntu.sh
